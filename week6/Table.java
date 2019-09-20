@@ -1,11 +1,11 @@
-import java.awt.Color
+import java.awt.Color;
 
 public class Table
 {
     private String brand;
     private boolean isBroken;
-    private int numLegs
-    private double lengthInFeet
+    private int numLegs;
+    private double lengthInFeet;
 
     public Table()
     {
