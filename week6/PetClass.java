@@ -31,6 +31,6 @@ public class PetClass
 
     public String toString()
     {
-        return "This is my pet"
+        return "This is my pet";
     }
 }

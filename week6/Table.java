@@ -17,6 +17,6 @@ public class Table
 
     public String toString()
     {
-        return "This is my Table"
+        return "This is my Table";
     }
 }

@@ -17,6 +17,6 @@ public class Shirt
 
     public String toString()
     {
-        return "This is my shirt"
+        return "This is my shirt";
     }
 }
