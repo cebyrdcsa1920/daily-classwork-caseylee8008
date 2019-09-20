@@ -19,15 +19,6 @@ public class PetClass
         name = "Otis";
     }
 
-    public PetClass(String species, Color color, int age. int legs, double weight, String name)
-    {
-        this.species = species
-        this.color = color;
-        this.age = age;
-        this.legs = legs;
-        this.weight = weight;
-        this.name = name;
-    }
 
     public String toString()
     {
